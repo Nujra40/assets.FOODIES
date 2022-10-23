@@ -1,0 +1,32 @@
+[
+    {
+        "itemID": 9854,
+        "filePath": "assets/menu/9854.jpg",
+        "item": "Chicken 65",
+        "unit": 158
+    },
+    {
+        "itemID": 2357,
+        "filePath": "assets/menu/2357.jpg",
+        "item": "Dosa",
+        "unit": 67
+    },
+    {
+        "itemID": 2352,
+        "filePath": "assets/menu/2352.jpg",
+        "item": "Chicken Briyani",
+        "unit": 185
+    },
+    {
+        "itemID": 3222,
+        "filePath": "assets/menu/3222.jpg",
+        "item": "Fried Rice",
+        "unit": 110
+    },
+    {
+        "itemID": 9984,
+        "filePath": "assets/menu/9984.jpg",
+        "item": "Chapati",
+        "unit": 69
+    }
+]
