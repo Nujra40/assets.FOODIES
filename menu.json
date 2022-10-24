@@ -52,5 +52,14 @@
         "isNonVeg": false,
         "rating": [1, 1, 1, 1, 1],
         "serves": 2
+    },
+    {
+        "itemID": 1112,
+        "filePath": "assets/menu/1112.webp",
+        "item": "Tomato Pulao",
+        "unit": 140,
+        "isNonVeg": false,
+        "rating": [1, 1, 1, 1, 1],
+        "serves": 2
     }
 ]
