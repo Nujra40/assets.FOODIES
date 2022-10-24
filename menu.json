@@ -5,7 +5,8 @@
         "item": "Chicken 65",
         "unit": 158,
         "isNonVeg": true,
-        "rating": [1, 1, 1, 1, 0]
+        "rating": [1, 1, 1, 1, 0],
+        "serves": 2
     },
     {
         "itemID": 2357,
@@ -13,7 +14,8 @@
         "item": "Dosa",
         "unit": 67,
         "isNonVeg": false,
-        "rating": [1, 1, 1, 1, 1]
+        "rating": [1, 1, 1, 1, 1],
+        "serves": 1
     },
     {
         "itemID": 2352,
@@ -21,7 +23,8 @@
         "item": "Chicken Briyani",
         "unit": 185,
         "isNonVeg": true,
-        "rating": [1, 1, 1, 1, 1]
+        "rating": [1, 1, 1, 1, 1],
+        "serves": 2
     },
     {
         "itemID": 3222,
@@ -29,7 +32,8 @@
         "item": "Veg Fried Rice",
         "unit": 110,
         "isNonVeg": false,
-        "rating": [1, 1, 1, 0, 0]
+        "rating": [1, 1, 1, 0, 0],
+        "serves": 1
     },
     {
         "itemID": 9984,
@@ -37,6 +41,7 @@
         "item": "Chapati",
         "unit": 69,
         "isNonVeg": false,
-        "rating": [1, 1, 1, 1, 1]
+        "rating": [1, 1, 1, 1, 1],
+        "serves": 1
     }
 ]
