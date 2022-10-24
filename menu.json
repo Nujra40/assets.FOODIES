@@ -43,5 +43,14 @@
         "isNonVeg": false,
         "rating": [1, 1, 1, 1, 1],
         "serves": 1
+    },
+    {
+        "itemID": 1111,
+        "filePath": "assets/menu/1111.jpg",
+        "item": "Peas Pulao",
+        "unit": 160,
+        "isNonVeg": false,
+        "rating": [1, 1, 1, 1, 1],
+        "serves": 2
     }
 ]
