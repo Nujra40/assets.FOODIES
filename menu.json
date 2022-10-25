@@ -61,5 +61,24 @@
         "isNonVeg": false,
         "rating": [1, 1, 1, 1, 1],
         "serves": 2
+    },
+    {
+        "itemID": 1087,
+        "filePath": "assets/menu/1087.jpg",
+        "item": "Cold Coffee",
+        "unit": 90,
+        "isNonVeg": false,
+        "rating": [1, 1, 1, 1, 1],
+        "serves": 2
+    },
+    {
+        "itemID": 1167,
+        "filePath": "assets/menu/1167.jpg",
+        "item": "Poori",
+        "unit": 78,
+        "isNonVeg": false,
+        "rating": [1, 1, 1, 1, 0],
+        "serves": 1
     }
+
 ]
