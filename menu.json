@@ -79,6 +79,23 @@
         "isNonVeg": false,
         "rating": [1, 1, 1, 1, 0],
         "serves": 1
+    },
+    {
+        "itemID": 7895,
+        "filePath": "assets/menu/7895.jpg",
+        "item": "Veg Noodles",
+        "unit": 90,
+        "isNonVeg": false,
+        "rating": [1, 1, 1, 1, 0],
+        "serves": 2
+    },
+    {
+        "itemID": 8756,
+        "filePath": "assets/menu/8756.jpg",
+        "item": "Ice Cream",
+        "unit": 66,
+        "isNonVeg": false,
+        "rating": [1, 1, 1, 1, 0],
+        "serves": 1
     }
-
 ]
